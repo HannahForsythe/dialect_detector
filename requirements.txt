@@ -6,7 +6,6 @@ pandas
 numpy
 spacy
 sklearn
-math
 matplotlib
 altair
 nltk
