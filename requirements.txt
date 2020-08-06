@@ -2,7 +2,6 @@ requests
 dill
 bs4
 datetime
-re
 pandas
 numpy
 random
