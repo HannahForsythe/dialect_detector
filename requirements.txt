@@ -1,0 +1,14 @@
+requests
+dill
+bs4
+datetime
+re
+pandas
+numpy
+random
+spacy
+sklearn
+math
+matplotlib
+altair
+nltk
